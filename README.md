@@ -77,7 +77,7 @@ Run queries to analyze customer behavior and spending patterns.
 
 README.md → Project documentation.
 
-💡 Conclusion
+## 💡 Conclusion
 
 This project provides valuable insights into customer spending, preferences, and Gold membership benefits. Businesses can leverage these findings to optimize their reward programs and improve customer retention.
 
